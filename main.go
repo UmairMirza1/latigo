@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/tuneinsight/lattigo/ckks"
+	"github.com/tuneinsight/lattigo/v4/ckks"
 )
 
 func main() {
